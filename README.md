@@ -13,6 +13,11 @@ quản lý người dùng và lưu trữ dữ liệu
 - Lưu trữ và xuất file dữ liệu lịch sử tra
 - Hiển thị dashboard về tỉ lệ dịch thành công và số request theo từng ngày
 
+# Công nghệ sử dụng
+- Frontend: React, Vite, React Router
+- Backend: FastApi, Pydantic, Python
+- Database: MySQL
+- AI Module: Python, transformer, hugging face
 
 # Train AI Module
 ## Code Train
