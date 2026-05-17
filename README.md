@@ -1,5 +1,5 @@
 # Train AI Module
-## code train
+## Code Train
 Google Colab:
 https://colab.research.google.com/drive/1njEj-CS7bTFPt0kmLrkIGFuoAIAbzrCM?usp=sharing
 
