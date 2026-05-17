@@ -1,3 +1,15 @@
+# Summary paper
+Đề tài tập trung nghiên cứu và xây dựng hệ thống sử dụng mô hình ngôn ngữ Phi-2
+kết hợp kỹ thuật LoRA Fine-tuning nhằm tự động sinh docstring và mô tả API
+bằng tiếng Việt cho mã nguồn Python. Ngoài ra, hệ thống còn tích hợp các công
+nghệ như FastAPI, ReactJS, RAG, FAISS và JWT Authentication để xây
+dựng một quy trình xử lý hoàn chỉnh từ phân tích mã nguồn, sinh tài liệu cho đến
+quản lý người dùng và lưu trữ dữ liệu
+
+
+
+
+
 # Train AI Module
 ## Code Train
 Google Colab:
