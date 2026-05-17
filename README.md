@@ -7,7 +7,11 @@ dựng một quy trình xử lý hoàn chỉnh từ phân tích mã nguồn, sin
 quản lý người dùng và lưu trữ dữ liệu
 
 
-
+# Tính năng nổi bật
+** Xác thực người dùng: Hệ thống đăng ký và đăng nhập bảo mật bằng JWT.
+** Đẩy code, upload file code Python và sinh docstring tiếng việt 
+** Lưu trữ và xuất file dữ liệu lịch sử tra
+** Hiển thị dashboard về tỉ lệ dịch thành công và số request theo từng ngày
 
 
 # Train AI Module
