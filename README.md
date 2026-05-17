@@ -1,3 +1,8 @@
+# Train AI Module
+## code train
+Google Colab:
+https://colab.research.google.com/drive/1njEj-CS7bTFPt0kmLrkIGFuoAIAbzrCM?usp=sharing
+
 # Generate API Docstrings using Phi-2
 
 ## AI Demo
